@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on some projects and learning TS, Js AND MERN<br>
+I'm currently working on some projects and learning Dart with Flutter, and Laravel <br>
 
 
 ## 🌐 Socials:
